@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 I'm Mehmet Akif</h1>
 
 ###
 
-<p align="center">My name is Mehmet Akif and I'm a Backend Developer from Turkey</p>
+<p align="center">🎓 I'm a Computer Engineering student at Sakarya University. Specializing in backend development using Java and Spring Boot. I am keen on learning new technologies and ensuring my projects stay up-to-date.</p>
 
 ###
 
@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/akif1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="makifbalci1@gmail.com" target="_blank">
+  <a href="mailto:makifbalci1@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://medium.com/@byAkif" target="_blank">

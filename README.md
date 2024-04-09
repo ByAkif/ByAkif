@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 2021<br>📚 I'm currently learning Java Spring Boot<br>🎲 Fun fact: Football and online chess</p>
+<p align="center">✨ Creating bugs since 2021<br>📚 I'm currently learning Java Spring Boot<br>🎲 Fun fact: Football and chess</p>
 
 ###
 

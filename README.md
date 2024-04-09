@@ -54,6 +54,9 @@
   <a href="https://medium.com/@byAkif" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
+ <a href="https://www.hackerrank.com/profile/makifbalci1" target="_blank">
+    <img src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg" width="40" height="40" alt="HackerRank logo" />
+  </a>
 </div>
 
 ###

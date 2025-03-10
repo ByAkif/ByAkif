@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🎓 I'm a Computer Engineering student at Sakarya University. Specializing in backend development using Java and Spring Boot. I am keen on learning new technologies and ensuring my projects stay up-to-date.</p>
+<p align="center">🎓 I'm a Computer Engineering student at Sakarya University. Specializing in web development using .Net,React.js and Node.js. I am keen on learning new technologies and ensuring my projects stay up-to-date.</p>
 
 ###
 

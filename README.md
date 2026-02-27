@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Mehmet Akif Balcı</h1>
 
-<p align="center">🎓 4th Year Computer Engineering Student at Sakarya University</p>
+<p align="center">🎓 Junior Computer Engineer </p>
 <p align="center">💻 Aspiring Full-Stack Developer | .NET • MERN Stack • Spring Boot</p>
 
 ---
